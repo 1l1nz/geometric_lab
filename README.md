@@ -113,5 +113,5 @@
     print(triangle.perimeter(3, 4, 5))  # 12
     ```
 
-![Логи](Logs.png)
+![Логи](logs2.png)
 
